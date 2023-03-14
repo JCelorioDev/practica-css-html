@@ -9,6 +9,14 @@ h2 {
   font: bold 14px verdana, sans-serif;
 }
 
+#agrupar{
+  border: black solid 2px;
+  width: auto;
+}
 
+#cabecera{
+  background-color: rgb(243, 198, 154);
+  padding: 8px;
+}
 
 
