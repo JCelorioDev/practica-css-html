@@ -41,6 +41,13 @@ ul{
   position: relative;
   left: 850px;
   top: -100px;
+  box-shadow: 5px 5px 10px rgb(85, 255, 0)
+}
+
+aside h2{
+  text-align: center;
+  position: relative;
+  top: 40px;
 }
 
 
