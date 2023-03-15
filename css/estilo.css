@@ -26,6 +26,11 @@ ul{
   padding: 10px;
 }
 
+li:hover{
+  background-color: rgb(186, 176, 176);
+  padding: 10px;
+}
+
 #seccion{
   background-color: rgb(140, 140, 140);
   margin: 25px 0;
